@@ -46,6 +46,7 @@
 24. [Arjun Adhikari](https://adhikariarjun.com.np/django/)
 25. [Ru Singh](https://rusingh.com/tag/django/)
 26. [Simon Willison on Django](https://simonwillison.net/tags/django/)
+27. [Django Tutorials](https://vegibit.com/tag/django/)
 
 ## Cookbooks
 1. [Data Flair](https://data-flair.training/blogs/learn-django/)
