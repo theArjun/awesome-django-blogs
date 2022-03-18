@@ -33,7 +33,7 @@
 11. [Classy Class-Based Views](http://ccbv.co.uk/)
 12. [Classy Django REST Framework](http://www.cdrf.co/)
 13. [Arun Rocks](https://arunrocks.com/)
-14. [Daniel Feldroy](https://www.pydanny.com/tag/django/)
+14. [Daniel Roy Greenfeld (pydanny)](https://daniel.feldroy.com/tags/django)
 15. Full Stack Python - ([Django](https://www.fullstackpython.com/django.html), [Templates](https://www.fullstackpython.com/django-templates.html), [DRF](https://www.fullstackpython.com/django-rest-framework-drf.html), [ORM](https://www.fullstackpython.com/django-orm.html))
 16. [Lacey Williams Henschel](https://www.laceyhenschel.com/)
 17. [Revsys](https://www.revsys.com/tidbits/)
@@ -120,3 +120,4 @@
 
 ### Forms
 1. [Upload multiple images to a post in Django](https://qasimalbaqali.medium.com/upload-multiple-images-to-a-post-in-django-ff10f66e8f7a)
+2. [Daniel Roy Greenfeld's articles on forms](https://daniel.feldroy.com/tags/forms)
