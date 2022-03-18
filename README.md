@@ -44,7 +44,7 @@
 22. [OverIQ](https://overiq.com/search/?query=django)
 23. [Lincoln Loop](https://lincolnloop.com/blog/categories/django/)
 24. [Arjun Adhikari](https://adhikariarjun.com.np/django/)
-
+25. [Simon Willison on Django](https://simonwillison.net/tags/django/)
 
 ## Cookbooks
 1. [Data Flair](https://data-flair.training/blogs/learn-django/)
