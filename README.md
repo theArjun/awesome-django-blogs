@@ -47,6 +47,7 @@
 25. [Ru Singh](https://rusingh.com/tag/django/)
 26. [Simon Willison on Django](https://simonwillison.net/tags/django/)
 27. [Django Tutorials](https://vegibit.com/tag/django/)
+28. [TestDriven.io](https://testdriven.io/blog/topics/django/)
 
 ## Cookbooks
 1. [Data Flair](https://data-flair.training/blogs/learn-django/)
