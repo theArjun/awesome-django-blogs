@@ -115,6 +115,7 @@
 1. [Go Live with Django & Heroku](https://www.codingforentrepreneurs.com/blog/go-live-with-django-project-and-heroku)
 2. [Configuring Django Apps for Heroku](https://devcenter.heroku.com/articles/django-app-configuration)
 3. [How To Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-18-04)
+4. [Django application on Google Cloud Platform](https://tobked.github.io/blog/django_on_gcp)
 
 ### Authentication
 1. [Adding Social Authentication to Django](https://realpython.com/adding-social-authentication-to-django/)
