@@ -43,12 +43,13 @@
 21. [Marina Mele](http://www.marinamele.com/django)
 22. [OverIQ](https://overiq.com/search/?query=django)
 23. [Lincoln Loop](https://lincolnloop.com/blog/categories/django/)
-24. [Arjun Adhikari](https://adhikariarjun.com.np/django/)
+24. [Arjun Adhikari](https://adhikariarjun.com.np)
 25. [Ru Singh](https://rusingh.com/tag/django/)
 26. [Simon Willison on Django](https://simonwillison.net/tags/django/)
 27. [Django Tutorials](https://vegibit.com/tag/django/)
 28. [TestDriven.io](https://testdriven.io/blog/topics/django/)
 29. [Django the Right Way](https://djangotherightway.com)
+30. [Code Underscored](https://www.codeunderscored.com/category/django/)
 
 ## Cookbooks
 1. [Data Flair](https://data-flair.training/blogs/learn-django/)
