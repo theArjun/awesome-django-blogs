@@ -43,7 +43,7 @@
 21. [Marina Mele](http://www.marinamele.com/django)
 22. [OverIQ](https://overiq.com/search/?query=django)
 23. [Lincoln Loop](https://lincolnloop.com/blog/categories/django/)
-24. [Arjun Adhikari](https://adhikariarjun.com.np)
+24. [Arjun Adhikari](https://adhikariarjun.com.np/tags/django/)
 25. [Ru Singh](https://rusingh.com/tag/django/)
 26. [Simon Willison on Django](https://simonwillison.net/tags/django/)
 27. [Django Tutorials](https://vegibit.com/tag/django/)
