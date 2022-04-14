@@ -101,6 +101,7 @@
 ### Testing
 1. [Test Driven Development of a Django RESTful API](https://realpython.com/test-driven-development-of-a-django-restful-api/)
 2. [Testing in Django (Part 1) – Best Practices and Examples](https://realpython.com/testing-in-django-part-1-best-practices-and-examples/)
+3. [Integration tests in Django](https://www.codeunderscored.com/integration-tests-in-django/)
    
 ### REST
 1. [Dynamic fields in Django Rest Framwork serializers](https://django.cowhite.com/blog/dynamic-fields-in-django-rest-framwork-serializers/)
@@ -110,6 +111,7 @@
 ### Extras
 1. [Using django-extensions to visualize the database diagram in django application](https://medium.com/@yathomasi1/1-using-django-extensions-to-visualize-the-database-diagram-in-django-application-c5fa7e710e16)
 2. [Starter Django Cheat Sheet](https://barhoring.github.io/django-cheat-sheet/)
+3. [Stop using ‘pip freeze’ without additional filters](https://towardsdatascience.com/create-your-requirements-txt-using-this-technic-4f5e9376a02e)
 
 ### Deployment
 1. [Go Live with Django & Heroku](https://www.codingforentrepreneurs.com/blog/go-live-with-django-project-and-heroku)
