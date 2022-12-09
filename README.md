@@ -25,7 +25,7 @@
 3. [Django Stars](https://djangostars.com/blog/)
 4. [WS Vincent Blogs](https://wsvincent.com/)
 5. [Coding for Enterpreneurs](https://www.codingforentrepreneurs.com/blog/)
-6. [Brobin Blogs](https://brobin.me/)
+6. [Django the Right Way](https://djangotherightway.com)
 7. [Matt Layman](https://www.mattlayman.com/)
 8. [Simple is better than Complex](https://simpleisbetterthancomplex.com/)
 9. [Haki Benita](https://hakibenita.com/)
@@ -48,7 +48,7 @@
 26. [Simon Willison on Django](https://simonwillison.net/tags/django/)
 27. [Django Tutorials](https://vegibit.com/tag/django/)
 28. [TestDriven.io](https://testdriven.io/blog/topics/django/)
-29. [Django the Right Way](https://djangotherightway.com)
+29. [Brobin Blogs](https://brobin.me/)
 30. [Code Underscored](https://www.codeunderscored.com/category/django/)
 
 ## Cookbooks
